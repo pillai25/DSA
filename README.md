@@ -259,6 +259,16 @@ while True:
     else:
         print("Invalid Choice")
 
+OUTPUT:-enter your choice : 1
+        enter element : 5
+        2,10
+        7
+        3,11,2
+        4
+        5
+        1,4
+        
+
 
 **PRACTICAL NO 4
 **
@@ -317,12 +327,6 @@ inorder(root)
 print("\n\nPostorder Traversal:")
 postorder(root)
 
-Tree
-        1
-      /   \
-     2     3
-    / \   / \
-   4   5 6   7
    
 **PRACTICAL NO 5
 **
@@ -457,7 +461,7 @@ for vertex in graph:
 **
 Write a program to compute MST (Minimum Spanning Tree) for a connected graph using Prim’s Algorithm.
 
-Source code
+code :-
 
 graph = [
     [0, 2, 0, 6, 0],
@@ -684,5 +688,9 @@ if binary_result != -1:
 else:
     print("Binary Search: Element not found")
 
+    
+OUTPUT:-
+9 5 2 3 6
+5
 
 
